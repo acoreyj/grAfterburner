@@ -32,7 +32,7 @@ services:
       - "GF_AUTH_ANONYMOUS_ENABLED=true"
       - "GF_AUTH_ANONYMOUS_ORG_ROLE=Admin"
       - "GF_DASHBOARDS_MIN_REFRESH_INTERVAL=1s"
-      - "GF_INSTALL_PLUGINS=michaeldmoore-annunciator-panel,yesoreyeram-boomtheme-panel,briangann-gauge-panel,grafana-polystat-panel,aidanmountford-html-panel"
+      - "GF_INSTALL_PLUGINS=michaeldmoore-annunciator-panel,yesoreyeram-boomtheme-panel,briangann-gauge-panel,grafana-polystat-panel"
     depends_on:
       - graphite
 
