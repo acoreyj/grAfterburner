@@ -17,7 +17,7 @@
   "gnetId": null,
   "graphTooltip": 0,
   "id": 4,
-  "iteration": 1590086451229,
+  "iteration": 1590091956718,
   "links": [],
   "panels": [
     {
@@ -82,7 +82,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Load",
+      "title": "",
       "type": "stat"
     },
     {
@@ -250,7 +250,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "FPS / Frametime",
+      "title": "",
       "type": "stat"
     },
     {
@@ -428,7 +428,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Memory Usage",
+      "title": "",
       "type": "stat"
     },
     {
@@ -931,7 +931,7 @@
             },
             {
               "props": {
-                "text": ".panel-container {\n    background-color: rgba(0,0,0,0.3);\n}\n.panel-loading {\ndisplay: none;\n}\n\ndiv[aria-label=\"Panel container title FPS / Frametime\"] div {\n  justify-content: start!important;:\n}"
+                "text": ".panel-container {\n    background-color: rgba(0,0,0,0.3);\n}\n.panel-loading {\ndisplay: none;\n}\n\n#panel-6 div {\n  justify-content: start!important;:\n}"
               },
               "type": "style"
             }
@@ -1003,5 +1003,5 @@
   "timezone": "",
   "title": "MSI Afterburner 7",
   "uid": "BU_N89gMk",
-  "version": 9
+  "version": 16
 }
